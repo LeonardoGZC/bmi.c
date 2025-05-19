@@ -12,7 +12,7 @@ int main()
 
     imc = peso / (altura * altura);
 
-    printf("\nSu índice de masa corporal (IMC) es: %.2f\n", imc);
+    printf("\nSu índice de masa corporal es: %.2f\n", imc);
 
     printf("\nTabla de referencia del IMC:\n");
     
